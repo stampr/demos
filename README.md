@@ -1,4 +1,4 @@
-# stampr demos
+# [stampr](https://stam.pr/) demos
 
 Want your demo added to the list? Submit a pull request!
 
